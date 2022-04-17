@@ -36,3 +36,21 @@ a:visited {
 }
 
 
+a:hover {
+    text-decoration: none;
+    color: green;
+}
+
+a:focus {
+    text-decoration: none;
+    color: orange;
+}
+
+a:active {
+    text-decoration: none;
+    color: teal;
+}
+
+
+
+
